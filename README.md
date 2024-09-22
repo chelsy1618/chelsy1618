@@ -2,7 +2,9 @@
 I'm a Full-Stack Developer specializing in **NodeJS**, **ReactJS**, and **backend frameworks** like Fastify and Express. I focus on performance optimization, efficient API design, and scalable solutions.
 
 #### 💼 Professional Experience
-- **Node JS Developer**, Coradius Technologies Private Limited (Sep 2022 – Present)
+- **Senior Node JS Developer**, Modder Coder IT Solutions (Sep 2024 – Present)
+  - Working as Senior Node JS developer
+- **Node JS Developer**, Coradius Technologies Private Limited (Sep 2022 – Aug 2024)
   - Worked on projects like the HDFC Insurance web application, optimizing backend performance using Fastify and integrating third-party APIs.
 - **Trainee JS Developer**, Modder Coder IT Solutions (Jan 2022 – Aug 2022)
   - Developed dynamic web applications using ReactJS and ensured smooth user experiences.
