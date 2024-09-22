@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Chelsy Vijay 👋
+I'm a Full-Stack Developer specializing in **NodeJS**, **ReactJS**, and **backend frameworks** like Fastify and Express. I focus on performance optimization, efficient API design, and scalable solutions.
 
-<!--
-**chelsy1618/chelsy1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💼 Professional Experience
+- **Node JS Developer**, Coradius Technologies Private Limited (Sep 2022 – Present)
+  - Worked on projects like the HDFC Insurance web application, optimizing backend performance using Fastify and integrating third-party APIs.
+- **Trainee JS Developer**, Modder Coder IT Solutions (Jan 2022 – Aug 2022)
+  - Developed dynamic web applications using ReactJS and ensured smooth user experiences.
 
-Here are some ideas to get you started:
+#### 🛠 Skills
+- **Backend:** NodeJS, Fastify, Express
+- **Frontend:** ReactJS, JavaScript, HTML5, CSS3, Bootstrap
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, Docker, AWS, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Contact Me
+- Email: chelsyvijay18@gmail.com
+- Location: Jaipur, India
+
+#### 📂 Featured Projects
+- **Reservzy** An online appointment scheduling system.
+- **MillionaireMarvel**: Developed a lottery software backend using NodeJS and MongoDB.
