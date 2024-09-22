@@ -20,5 +20,5 @@ I'm a Full-Stack Developer specializing in **NodeJS**, **ReactJS**, and **backen
 - Location: Jaipur, India
 
 #### 📂 Featured Projects
-- **Reservzy** An online appointment scheduling system.
+- **Reservzy**: An online appointment scheduling system.
 - **MillionaireMarvel**: Developed a lottery software backend using NodeJS and MongoDB.
